@@ -26,3 +26,4 @@ export default tseslint.config(
     },
   }
 );
+//# sourceMappingURL=eslint.config.js.map
